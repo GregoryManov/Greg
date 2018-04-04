@@ -1,0 +1,96 @@
+[2018-01-05 17:51:44] (ERROR @ /Applications/MAMP/htdocs/greg/core/xpdo/om/xpdoobject.class.php : 240) Error 3D000 executing statement: 
+Array
+(
+    [0] => 3D000
+    [1] => 1046
+    [2] => No database selected
+)
+
+[2018-01-05 17:51:44] (ERROR @ /Applications/MAMP/htdocs/greg/core/xpdo/om/xpdoobject.class.php : 240) Error 3D000 executing statement: 
+Array
+(
+    [0] => 3D000
+    [1] => 1046
+    [2] => No database selected
+)
+
+[2018-01-05 17:51:44] (FATAL) Could not load core MODX configuration!
+[2018-01-05 17:51:44] (ERROR @ /Applications/MAMP/htdocs/greg/core/xpdo/om/xpdoobject.class.php : 240) Error 3D000 executing statement: 
+Array
+(
+    [0] => 3D000
+    [1] => 1046
+    [2] => No database selected
+)
+
+[2018-01-05 17:51:44] (ERROR @ /Applications/MAMP/htdocs/greg/core/xpdo/om/xpdoobject.class.php : 240) Error 3D000 executing statement: 
+Array
+(
+    [0] => 3D000
+    [1] => 1046
+    [2] => No database selected
+)
+
+[2018-01-05 17:51:44] (FATAL) Could not load core MODX configuration!
+[2018-01-05 17:51:49] (ERROR @ /Applications/MAMP/htdocs/greg/core/xpdo/om/xpdoobject.class.php : 240) Error 3D000 executing statement: 
+Array
+(
+    [0] => 3D000
+    [1] => 1046
+    [2] => No database selected
+)
+
+[2018-01-05 17:51:49] (ERROR @ /Applications/MAMP/htdocs/greg/core/xpdo/om/xpdoobject.class.php : 240) Error 3D000 executing statement: 
+Array
+(
+    [0] => 3D000
+    [1] => 1046
+    [2] => No database selected
+)
+
+[2018-01-05 17:51:49] (FATAL) Could not load core MODX configuration!
+[2018-01-05 17:51:56] (ERROR @ /Applications/MAMP/htdocs/greg/core/xpdo/om/xpdoobject.class.php : 240) Error 3D000 executing statement: 
+Array
+(
+    [0] => 3D000
+    [1] => 1046
+    [2] => No database selected
+)
+
+[2018-01-05 17:51:56] (ERROR @ /Applications/MAMP/htdocs/greg/core/xpdo/om/xpdoobject.class.php : 240) Error 3D000 executing statement: 
+Array
+(
+    [0] => 3D000
+    [1] => 1046
+    [2] => No database selected
+)
+
+[2018-01-05 17:51:56] (FATAL) Could not load core MODX configuration!
+[2018-01-05 18:03:46] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-01-05 18:03:46] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-01-05 18:03:46] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/setting
+[2018-01-05 18:03:46] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/namespace
+[2018-01-05 18:10:29] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/element
+[2018-01-11 16:20:14] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/element
+[2018-01-11 16:29:12] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 16:29:12] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 16:29:12] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 16:29:12] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 16:29:30] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 16:29:30] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 16:29:30] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 16:29:30] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 16:29:34] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 16:29:34] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/modx/modparser.class.php : 538) Could not find snippet with name mysite_title.
+[2018-01-11 19:43:37] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/phpthumb/modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: /Applications/MAMP/htdocs/greg/core/cache/phpthumb/localhost__srcbebd4cd55774f3b4d5df0d8ad135a24d_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2018-01-11 19:43:37] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/phpthumb/modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-01-11 19:43:53] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/phpthumb/modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: /Applications/MAMP/htdocs/greg/core/cache/phpthumb/localhost__srcbebd4cd55774f3b4d5df0d8ad135a24d_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2018-01-11 19:43:53] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/phpthumb/modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-01-11 19:43:57] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/phpthumb/modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: /Applications/MAMP/htdocs/greg/core/cache/phpthumb/localhost__srcbebd4cd55774f3b4d5df0d8ad135a24d_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2018-01-11 19:43:57] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/phpthumb/modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2018-01-11 19:44:29] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/phpthumb/modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: /Applications/MAMP/htdocs/greg/core/cache/phpthumb/localhost__srcbebd4cd55774f3b4d5df0d8ad135a24d_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2018-01-11 19:44:29] (ERROR @ /Applications/MAMP/htdocs/greg/core/model/phpthumb/modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
